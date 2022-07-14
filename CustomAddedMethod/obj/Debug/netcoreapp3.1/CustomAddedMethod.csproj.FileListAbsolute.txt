@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\bin\Debug\netcoreapp3.1\CustomAddedMethod.exe
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\bin\Debug\netcoreapp3.1\CustomAddedMethod.deps.json
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\bin\Debug\netcoreapp3.1\CustomAddedMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\bin\Debug\netcoreapp3.1\CustomAddedMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\bin\Debug\netcoreapp3.1\CustomAddedMethod.dll
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\bin\Debug\netcoreapp3.1\CustomAddedMethod.pdb
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.dll
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.pdb
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programmer\c#\CustomAddedMethod\CustomAddedMethod\obj\Debug\netcoreapp3.1\CustomAddedMethod.csproj.AssemblyReference.cache
